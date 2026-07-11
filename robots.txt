@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flickui.github.io/sitemap.xml
